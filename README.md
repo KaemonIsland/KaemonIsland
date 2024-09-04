@@ -4,12 +4,11 @@ Also known as the Logic Warlock
 ### Where to Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kaemon-lovendahl-08150564/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheLogicWarlock)
 [![Dev.to](https://img.shields.io/badge/Dev-0A0A0A?style=for-the-badge&logo=Dev.to&logoColor=white)](https://dev.to/thelogicwarlock)
 
 ## Here's a Short Overview About Me
 
-- 🔭 I’m currently working on [Mana-Flood](https://github.com/KaemonIsland/mana-flood)
+- 🔭 I’m currently working on [Mana-Flooded](https://github.com/KaemonIsland/mana-flooded)
 
 - 🌱 I’m currently learning **Better UX/UI Design and Game Development**
 
@@ -17,15 +16,15 @@ Also known as the Logic Warlock
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaemonIsland](https://github.com/KaemonIsland)
 
-- 📝 I regularly write articles on [https://dev.to/thelogicwarlock](https://dev.to/thelogicwarlock)
+- 📝 I semi-regularly write articles on [https://dev.to/thelogicwarlock](https://dev.to/thelogicwarlock)
 
-- 💬 Ask me about **React, Design, Unity, D&D, and MTG**
+- 💬 Ask me about **React, Design, Unity, D&D, and Magic: The Gathering**
 
 - 📫 How to reach me **KaemonLovendahl@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kaemon-lovendahl-08150564/](https://www.linkedin.com/in/kaemon-lovendahl-08150564/)
 
-- ⚡ Fun fact: My personal Magic card would be "Kaemon, Obsessor of Many Things"
+- ⚡ Fun fact: I love to tinker with Magic: The Gathering decks and can easily lose hours perfecting strategies. When I'm not coding or designing, you'll find me crafting the ultimate deck!
 
 ## Want Some Stats?
 
