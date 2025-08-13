@@ -8,7 +8,7 @@ Also known as the Logic Warlock
 
 ## Here's a Short Overview About Me
 
-- 🔭 I’m currently working on [The Glitched Goblet]([https://github.com/KaemonIsland/mana-flooded](https://glitchedgoblet.blog/))
+- 🔭 I’m currently working on [The Glitched Goblet](https://glitchedgoblet.blog/)
 
 - 🌱 I’m currently learning **Better UX/UI Design and Game Development**
 
