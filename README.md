@@ -1,41 +1,55 @@
-# Hi 👋, I'm Kaemon Lovendahl
-Also known as the Logic Warlock
+# Hi, I’m Kaemon — Frontend Engineer & UX tinkerer 🧪✨
+_aka **The Logic Warlock**_
 
-### Where to Find Me
+I ship approachable, fast UIs with **React**, **TypeScript**, **Next.js**, and **Tailwind** — and I’m not afraid to get my hands dirty with **CI/CD**, **testing**, and **DevOps** when it makes users’ lives better.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kaemon-lovendahl-08150564/)
-[![Dev.to](https://img.shields.io/badge/Dev-0A0A0A?style=for-the-badge&logo=Dev.to&logoColor=white)](https://dev.to/thelogicwarlock)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kaemon-lovendahl-08150564/)
+[![Blog](https://img.shields.io/badge/Blog-Glitched%20Goblet-6C63FF?style=for-the-badge)](https://glitchedgoblet.blog/)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/thelogicwarlock)
+[![Email](https://img.shields.io/badge/Email-kaemonlovendahl%40outlook.com-1f6feb?style=for-the-badge)](mailto:KaemonLovendahl@outlook.com)
 
-## Here's a Short Overview About Me
+---
 
-- 🔭 I’m currently working on [The Glitched Goblet](https://glitchedgoblet.blog/)
+## What I’m up to
+- Building **[The Glitched Goblet](https://glitchedgoblet.blog/)** — a personality-driven tech blog (Next.js 14, App Router, Tailwind), with themed skins and hidden easter eggs.
+- Leveling up **UI/UX** craft: motion, accessibility, and “make it delightful” polish.
+- Pragmatic **DevOps**: GitHub Actions, ephemeral envs, and test automation that actually reduces regressions.
 
-- 🌱 I’m currently learning **Better UX/UI Design and Game Development**
+## Recent highlights
+- 🧭 Prototyped a **Puppeteer** link validator to crawl and flag broken links in production.
+- ⚙️ Stood up **ephemeral dev environments** via GitHub Actions so teammates could QA in parallel.
+- 🔎 Revamped **site-wide search** and integrated **DataDog** browser tests + **Cypress** for sturdier releases.
+- 📚 Rebuilt eReader **UI/UX** (annotations, bookmarks, font/themes) and modularized a legacy site into **React** components.
 
-- 👯 I’m looking to collaborate on **Anything**
+## Featured projects
+- **The Glitched Goblet** — Next.js + Tailwind blog with markdown-first posts, previews, and custom themes.  
+  _Demo & posts:_ https://glitchedgoblet.blog/
+- **Mana Flooded** — Rails + React app for MTG deck building, stats, and filtering.  
+  _Repo:_ https://github.com/KaemonIsland/mana-flooded
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaemonIsland](https://github.com/KaemonIsland)
+## Toolbox
+**Frontend:** React, Next.js, TypeScript, Tailwind, Storybook, Figma  
+**Testing:** Cypress, Jest, Postman, DataDog  
+**Backend/DevOps:** Node.js, Express, Rails, Docker, GitHub Actions, AWS, Kubernetes/Helm  
+**Databases:** PostgreSQL, MySQL
 
-- 📝 I semi-regularly write articles on [https://dev.to/thelogicwarlock](https://dev.to/thelogicwarlock)
+## Let’s talk about
+React, UX patterns, testing strategy, small-game dev, **D&D**, and **Magic: The Gathering**.
 
-- 💬 Ask me about **React, Design, Unity, D&D, and Magic: The Gathering**
+📫 **Reach me:** KaemonLovendahl@outlook.com • [LinkedIn](https://www.linkedin.com/in/kaemon-lovendahl-08150564/)
 
-- 📫 How to reach me **KaemonLovendahl@outlook.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kaemon-lovendahl-08150564/](https://www.linkedin.com/in/kaemon-lovendahl-08150564/)
+<details>
+  <summary>GitHub stats & doodads (click to expand)</summary>
 
-- ⚡ Fun fact: I love to tinker with Magic: The Gathering decks and can easily lose hours perfecting strategies. When I'm not coding or designing, you'll find me crafting the ultimate deck!
-
-## Want Some Stats?
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaemonisland" alt="kaemonisland" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaemonisland&show_icons=true&locale=en&layout=compact" alt="kaemonisland" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaemonisland&show_icons=true&locale=en" alt="kaemonisland" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaemonisland&" alt="kaemonisland" /></p>
-
-## Some Stuff I Know
-
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=kaemonisland&show_icons=true&hide=stars&theme=default" alt="GitHub stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaemonisland&layout=compact&langs_count=8" alt="Top languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kaemonisland" alt="GitHub streak" />
+  </p>
+</details>
